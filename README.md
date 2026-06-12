@@ -30,9 +30,6 @@ The project demonstrates end-to-end e-commerce development, including product di
 - Stripe payments
 - Clerk authentication
 
-## Demo
-Under construction!
-
 ## Key Contributions
 ### E-commerce Development
 Developed complete end-to-end customer journeys from product discovery to checkout
