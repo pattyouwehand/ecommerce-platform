@@ -1,15 +1,17 @@
 # E-commerce Platform
 
-A modern full-stack e-commerce application featuring a complete product browsing, cart, and checkout flow.
-This project demonstrates how a frontend application integrates with backend services for authentication, payments, and data management.
+A modern full-stack e-commerce platform built with Next.js, focused on performance, SEO, scalability, and a seamless shopping experience.
+The project demonstrates end-to-end e-commerce development, including product discovery, authentication, payments, data management, and search-engine optimization.
 
 ## Features
-- Product catalog with dynamic data
+- Product catalog with dynamic content
 - Shopping cart and checkout flow
-- Authentication (Clerk)
-- Payment processing (Stripe)
-- Responsive and user-friendly UI
-- Focus on performance and scalability
+- Secure authentication
+- Online payment processing
+- Responsive user experience
+- Server-side rendering and optimized page delivery
+- SEO-focused architecture and content structure
+- Scalable component-based frontend architecture
 
 ## Tech Stack
 
@@ -32,10 +34,22 @@ This project demonstrates how a frontend application integrates with backend ser
 Under construction!
 
 ## Key Contributions
-- Developed complete end-to-end user flows from product browsing to checkout
-- Integrated frontend with backend services for authentication and payments
-- Designed scalable frontend architecture and component structure
-- Implemented data handling and backend logic using Prisma
+### E-commerce Development
+Developed complete end-to-end customer journeys from product discovery to checkout
+Integrated authentication, payments, and database-driven product management
+Designed reusable component architecture and scalable application structure
+
+### Performance & SEO
+Implemented SEO best practices using Next.js
+Optimized metadata, structured page architecture, and content rendering
+Improved page performance through server-side rendering and static generation strategies
+Focused on Core Web Vitals, crawlability, and search visibility
+
+### Technical Architecture
+Built scalable data models using Prisma
+Implemented API integrations and backend business logic
+Created maintainable TypeScript-based code architecture
+Designed for performance, scalability, and future feature expansion
 
 ## Notes
 This project was developed for a real-world use case.
